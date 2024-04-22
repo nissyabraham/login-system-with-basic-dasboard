@@ -1,0 +1,13 @@
+.menucontainer{
+    
+    height: 350px;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: gainsboro;
+    border-style: solid;
+    margin-bottom: 350px;
+    margin-top: 100px;
+margin-left: 200px;
+
+}

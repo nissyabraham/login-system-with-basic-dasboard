@@ -1,0 +1,14 @@
+.homecontent{
+    height:100vh;
+}
+.orderbtn{
+    margin-left: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: black;
+    color: white;
+    border-color: black;
+    border-style: solid;
+}

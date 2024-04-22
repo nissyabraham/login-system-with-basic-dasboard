@@ -1,0 +1,93 @@
+.formcontainer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+   background-color: blue;
+        height: 100vh;
+    
+   
+}
+.formdiv{
+    background-color:white;
+     margin-top: 150px; 
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+    width:500px;
+    height: 500px;
+}
+.formheader{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: rgb(130, 14, 238);
+    margin-bottom: 0px;
+}
+.formcontent{
+   display: flex;
+   flex-direction: column;
+   margin-left: 50px;
+  
+}
+.nameinput{
+    
+    border-style: solid;
+    border-color: rgb(235, 226, 226);
+    background-color: rgb(199, 195, 195);
+    height: 40px;
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.emailinput{
+    border-style: solid;
+    border-color: rgb(235, 226, 226);
+    background-color: rgb(199, 195, 195);
+    height: 40px;
+    width: 400px;
+    margin-bottom: 10px;
+}
+.nameinput::placeholder{
+    padding-left: 20px;
+}
+.emailinput::placeholder{
+    padding-left: 20px;
+}
+.buttoncontainer{
+    display: flex;
+    justify-content:flex-start;
+    
+}
+.signupbtn{
+    height: 35px;
+    width: 200px;
+    margin-right: 10px;
+    color: white;
+    background-color: rgba(98, 26, 164, 0.927);
+    border-style: solid;
+    border-color:rgba(98, 26, 164, 0.927); 
+    border-radius: 20px;
+    
+}
+.login{
+    height: 35px;
+    width: 200px;
+    color: black;
+    background-color: gray;
+    border-style: solid;
+    border-color:gray; 
+    border-radius: 20px;
+}
+.loginbtn{
+    margin-top: 50px;
+    height: 35px;
+    width: 200px;
+    margin-left: 85px;
+    color: white;
+    background-color: rgba(98, 26, 164, 0.927);
+    border-style: solid;
+    border-color:rgba(98, 26, 164, 0.927); 
+    border-radius: 20px;
+    
+}

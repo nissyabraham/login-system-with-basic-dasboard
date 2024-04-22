@@ -1,0 +1,19 @@
+.headercontainer{
+    background-color: black;
+    height: 100px;
+
+    
+}
+.headercontent{
+display: flex;
+justify-content:end;
+color: white;
+font-size: 10px;
+padding-right: 300px;
+padding-top: 25px;
+}
+
+.pizzalogo{
+    height: 55px;
+   
+}

@@ -1,0 +1,19 @@
+.footercontainer{
+    background-color: black;
+    height: 150px;
+
+    
+}
+.footercontent{
+display: flex;
+justify-content:center;
+color: white;
+font-size: 50px;
+
+padding-top: 40px;
+}
+.footertxt{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}

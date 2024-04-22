@@ -1,0 +1,32 @@
+.contactcontainer{
+    display: flex;
+   
+}
+.contactbg{
+    height: 700px;
+    width: 700px;
+}
+.contacttxt{
+    padding-top: 80px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+}
+.contactname{
+    padding-left: 40px;
+    font-size: 20px;
+}
+.border{
+    margin-left: 40px;
+   width: 600px;
+   border-color: black;
+   border-style: solid;
+}
+.placeholdertxt{
+    padding-left: 40px;
+    font-size: 20px;
+}
+.placeholdertxtmsg{
+    padding-left: 40px;
+    font-size: 20px;
+    padding-bottom: 50px;
+}
