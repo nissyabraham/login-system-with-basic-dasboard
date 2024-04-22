@@ -1,6 +1,6 @@
 # project explanation
 ###### To start the Project run 
- ###npm start
+ ### npm start
 This project is developed in react js .In this project we have a login page with username and password.Here i have used static authentification method.That means i have hardcoded the username and password.Username is admin@gmail.com and password is admin123.If we use wrong email and password it will show incorrect error message.If we didnt enter email and password it will dispaly error message as email and password is required.Before login we cannot access the dashboard.since i protect the routes before login.After login it will be redirected to dashboard which is my home page . In the dashboard we have navlink like meny,aboutus,contact and logout.once we click the navlink it will redirect to the navigation page .once we login login details are store in cokkie  and once logout clear login details from cookie.Once we logout it will be directed to login page. Below is the screenshot of it
 ![login 1](https://github.com/nissyabraham/login-system-with-basic-dasboard/assets/102848271/604c7af5-cbd1-442d-befe-608f7f6ee450)
 
